@@ -1,6 +1,7 @@
 # db_assignment_01
 
-The database is a postgresql database normalized to 3.5NF.
+The database in db.sql is a postgresql database normalized to 3.5NF.
+db_5th is the same database normalized to 5th normal form
 
 ## Denormalization
 There are fields, such as publisher name, or genre, that one might consider adding to the books table. This would improve performance
