@@ -11,3 +11,4 @@ It might also be worth it to add more information about patrons to the loans tab
 Though, for smaller volumes of data the extra overhead of maintaining data consistency might not be worth it.
 
 ## Diagram
+![diagram](/images/diagram.png)
